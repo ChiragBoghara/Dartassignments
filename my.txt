@@ -1,0 +1,2 @@
+print("This is example file");
+print("This is again an example");
